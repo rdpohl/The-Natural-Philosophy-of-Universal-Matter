@@ -11,8 +11,7 @@ The Natural Philosophy of Universal Matter
 * On Time
 
 ### The Structure of Elements According the Philosophy
-In folder named 
-> Structure-of-Elements
+In folder named "Structure-of-Elements"
   
 ### Coded Example On Particle Sizing and Mass
 In Folder On-Particle-Size\
