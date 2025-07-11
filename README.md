@@ -1,18 +1,18 @@
-# The-Natural-Philosophy-of-Universal-Matter\
-The original hypothesis and supplemental papers regarding Universal Matter\
+# The-Natural-Philosophy-of-Universal-Matter
+The original hypothesis and supplemental papers regarding Universal Matter
 
-## Main hypothesis:\
-The Natural Philosophy of Universal Matter\
+## Main hypothesis:
+The Natural Philosophy of Universal Matter
 
-### Supplemental Papers:\
+### Supplemental Papers:
 On Gravity\
 On Light\
 On Particle Movement\
-On Time\
+On Time
 
-### The Structure of Elements According the Philosophy\
-In Folder Structure-of-Elements\
+### The Structure of Elements According the Philosophy
+In Folder Structure-of-Elements
   
-### Coded Example On Particle Sizing and Mass\
+### Coded Example On Particle Sizing and Mass
 In Folder On-Particle-Size\
-Contains Python code for report build\
+Contains Python code for report build
