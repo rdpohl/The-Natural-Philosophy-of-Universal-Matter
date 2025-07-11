@@ -13,7 +13,7 @@
 ### Supplemental Papers:
 > These Papers extend the main hypothesis. The suggested order of reading these Papers are:
 * The Structure of the Elements (see below for details)
-* On Particle Sizes (see below for details)
+* On Particle Size (see below for details)
 * On Particle Movement
 * On Gravity
 * On Light
