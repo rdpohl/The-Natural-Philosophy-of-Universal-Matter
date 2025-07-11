@@ -14,5 +14,5 @@ The Natural Philosophy of Universal Matter
 In folder named "Structure-of-Elements"
   
 ### Coded Example On Particle Sizing and Mass
-In Folder On-Particle-Size\
+In folder named "On-Particle-Size"
 Contains Python code for report build
