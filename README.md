@@ -1,17 +1,17 @@
-# The-Natural-Philosophy-of-Universal-Matter
+# The Natural Philosophy of Universal Matter
 The original hypothesis and supplemental papers regarding Universal Matter
 
 ## Main hypothesis:
 The Natural Philosophy of Universal Matter
 
 ### Supplemental Papers:
-On Gravity\
-On Light\
-On Particle Movement\
-On Time
+* On Gravity\
+* On Light\
+* On Particle Movement\
+* On Time
 
 ### The Structure of Elements According the Philosophy
-In Folder Structure-of-Elements
+In folder named > Structure-of-Elements
   
 ### Coded Example On Particle Sizing and Mass
 In Folder On-Particle-Size\
