@@ -1,8 +1,8 @@
 # The Natural Philosophy of Universal Matter
-  The original hypothesis and supplemental papers regarding Universal Matter
+The original hypothesis and supplemental papers regarding Universal Matter
 
 ## Main hypothesis:
-  The Natural Philosophy of Universal Matter
+The Natural Philosophy of Universal Matter
 
 ### Supplemental Papers:
 * On Gravity
