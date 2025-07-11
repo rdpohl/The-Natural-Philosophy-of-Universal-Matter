@@ -8,9 +8,10 @@
 * Combining the results of these two Compositions
 * Defining a third Rotational Composition
 * Attaching this Composition to the previous two combined
-* Completing the builds of a Hydrogen aton
+* Completing the builds of a Hydrogen atom
 
 ### Supplemental Papers:
+> These Papers extend the main hypothesis
 * On Gravity
 * On Light
 * On Particle Movement
