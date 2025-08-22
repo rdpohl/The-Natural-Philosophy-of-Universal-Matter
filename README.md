@@ -9,6 +9,7 @@
 * Defining a third Rotational Composition
 * Attaching this Composition to the previous two combined
 * Completing the builds of a Hydrogen atom
+> - build the world and the universe around us.
 
 ### Supplemental Papers:
 > These Papers extend the main hypothesis. The suggested order of reading these Papers are:
