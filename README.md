@@ -2,14 +2,15 @@
 > An original hypothesis that defines Universal Matter which is very small matter and, via a few defined processes, build the Universe that we see and explore. 
 
 ## Main hypothesis:
-> The Natural Philosophy of Universal Matter. This, the main Paper, explores the processes that build our visible Universe. The Paper shows that a very few processes -
+> The Natural Philosophy of Universal Matter. This, the main Paper, explores the processes that build our visible Universe. The Paper shows that a very few processes, such as
 * Accumulation
 * Two Rotational Compositions
 * Combining the results of these two Compositions
 * Defining a third Rotational Composition
 * Attaching this Composition to the previous two combined
 * Completing the builds of a Hydrogen atom
-> - build the world and the universe around us.
+
+build the world and the universe around us.
 
 ### Supplemental Papers:
 > These Papers extend the main hypothesis. The suggested order of reading these Papers are:
