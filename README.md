@@ -8,7 +8,7 @@
 * Defines Two Rotational Compositions and Combines the Results of these two Compositions
 * Defines a Third Type of Rotational Composition and Attaches it to the Previous Two Combinations
 
-Completing the build of a hydrogen atom, the world, and the universe around us.
+> Completing the build of a hydrogen atom, the world, and the universe around us.
 
 ### Supplemental Papers:
 > These Papers Extend the Main hypothesis. The suggested order of reading these Papers are:
