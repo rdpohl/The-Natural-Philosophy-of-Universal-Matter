@@ -13,17 +13,8 @@
 ### Supplemental Papers:
 > These Papers Extend the Main hypothesis. The suggested order of reading these Papers are:
 
-* The Structure of the Elements (see below for details)
-* On Particle Size (see below for details)
+* The Structure of the Elements (and its spreadsheet of the same name)
 * On Particle Movement
 * On Gravity
 * On Light
 * On Time
-
-CmP_Animation.py: On-Light and the Main Hypothesis share a companion Python program that illustrates Complementary Particles.
-
-### The Structure of Elements According the Philosophy
-> In folder named "Structure-of-Elements"
-  
-### Coded Example On Particle Sizing and Mass
-> In folder named "On-Particle-Size" and contains Python code for report build
