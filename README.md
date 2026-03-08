@@ -10,11 +10,5 @@
 
 > Completing the build of a hydrogen atom, the world, and the universe around us.
 
-### Supplemental Papers:
-> These Papers Extend the Main hypothesis. The suggested order of reading these Papers are:
-
-* The Structure of the Elements (and its spreadsheet of the same name)
-* On Particle Movement
-* On Gravity
-* On Light
-* On Time
+### Supplemental Workbook:
+* The Structure of the Elements (and its spreadsheet of the same name): Defines the balance of the elements.
