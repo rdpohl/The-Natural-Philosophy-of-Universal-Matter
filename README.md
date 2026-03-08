@@ -1,8 +1,8 @@
 # The Natural Philosophy of Universal Matter
 > An original hypothesis that defines Universal Matter. Found to be very small matter and, via a few defined processes, build the Universe that we see and explore. 
 
->DOI: https://doi.org/10.5281/zenodo.18913076
->ORCID: https://orcid.org/0009-0005-0351-2778
+DOI: https://doi.org/10.5281/zenodo.18913076\
+ORCID: https://orcid.org/0009-0005-0351-2778
 
 ## Main hypothesis:
 > The Natural Philosophy of Universal Matter. This, the main Paper, explores the processes that build our visible Universe. The Paper shows that a very few processes, such as
