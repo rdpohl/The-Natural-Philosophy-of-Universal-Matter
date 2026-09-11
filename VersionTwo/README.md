@@ -1,17 +1,33 @@
 # The Natural Philosophy of Universal Matter
-> An original hypothesis that defines Universal Matter. Found to be very small matter and, via a few defined processes, build the Universe that we see and explore. 
+> An original philosophical hypothesis of Universal Matter, very small particles of matter that pervade the universe that we see and explore. The philosophy has been expanded to include several derivations from its tenets.
 
 DOI: https://doi.org/10.5281/zenodo.18913076 \
 ORCID: https://orcid.org/0009-0005-0351-2778
 
-## Main hypothesis:
-> The Natural Philosophy of Universal Matter. This, the main Paper, explores the processes that build our visible Universe. The Paper shows that a very few processes, such as
+## Part One: Main Philosophical Hypothesis
+> The Natural Philosophy of Universal Matter. This part explores invisible matter that, via a few processes, forms our visible universe. 
 
-* Accumulation of Universal Matter
-* Defines Two Rotational Compositions and Combines the Results of these two Compositions
-* Defines a Third Type of Rotational Composition and Attaches it to the Previous Two Combinations
+> The philosophy shows that a very few processes, such as:
+* Accumulation of universal matter (growth)
+* Rotational and combinatory compositions (branch)
+* Macro level compositions (growth)
 
-> Completing the build of a hydrogen atom, the world, and the universe around us.
+> Completes the formation of a hydrogen atom, the world, and the universe around us.
 
-### Supplemental Workbook:
-* The Structure of the Elements (and its spreadsheet of the same name): Defines the balance of the elements.
+### Part Two: Chart of Elements
+* The Structure of the Elements (and its spreadsheet of the same name): Builds out the balance of the elements.
+
+### Part Three: Particle Movement and Energy
+* Discusses the relationships between particle matter and energy. 
+
+### Part Four: Gravity
+* Extends parts one and two to develop and define gravity.
+
+### Part Five: Time 
+* Extends part one to offer a definition of time.
+
+### Part Six: The Expanding Universe
+* Extends part one to discuss how and why our universe is expanding.
+
+### Part Seven: Light
+* Discusses the formation of light and its unique properties.
