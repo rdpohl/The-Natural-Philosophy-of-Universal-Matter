@@ -10,19 +10,19 @@ ORCID: https://orcid.org/0009-0005-0351-2778
 > The philosophy shows that a very few processes, such as, accumulation of universal matter (growth), rotational and combinatory compositions (branch), and macro level compositions (growth), brings about the formation of a hydrogen atom, the world, and the universe around us.
 
 ### Part Two: Chart of Elements
-  The Structure of the Elements (and a spreadsheet of the same name): Builds out the balance of the elements.
+&emsp;The Structure of the Elements (and a spreadsheet of the same name): Builds out the balance of the elements.
 
 ### Part Three: Particle Movement and Energy
-  Discusses the relationships between particle matter and energy. 
+&emsp;Discusses the relationships between particle matter and energy. 
 
 ### Part Four: Gravity
-  Extends parts one and two to develop and define gravity.
+&emsp;Extends parts one and two to develop and define gravity.
 
 ### Part Five: Time 
-  Extends part one to offer a definition of time.
+&emsp;Extends part one to offer a definition of time.
 
 ### Part Six: The Expanding Universe
-  Extends part one to discuss how and why our universe is expanding.
+&emsp;Extends part one to discuss how and why our universe is expanding.
 
 ### Part Seven: Light
-  Discusses the formation of light and its unique properties.
+&emsp;Discusses the formation of light and its unique properties.
