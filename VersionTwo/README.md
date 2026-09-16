@@ -5,9 +5,9 @@ DOI: https://doi.org/10.5281/zenodo.18913076 \
 ORCID: https://orcid.org/0009-0005-0351-2778
 
 ## Part One: Main Philosophical Hypothesis
-> The Natural Philosophy of Universal Matter. This part explores invisible matter that, via a few processes, forms our visible universe. 
+> The Natural Philosophy of Universal Matter. This part explores invisible matter that forms our visible universe. 
 
-> The philosophy shows that a very few processes, such as, accumulation of universal matter (growth), rotational and combinatory compositions (branch), and macro level compositions (growth), completes the formation of a hydrogen atom, the world, and the universe around us.
+> The philosophy shows that a very few processes, such as, accumulation of universal matter (growth), rotational and combinatory compositions (branch), and macro level compositions (growth), brings about the formation of a hydrogen atom, the world, and the universe around us.
 
 ### Part Two: Chart of Elements
   The Structure of the Elements (and a spreadsheet of the same name): Builds out the balance of the elements.
