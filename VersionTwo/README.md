@@ -1,9 +1,6 @@
 # The Natural Philosophy of Universal Matter
 > An original philosophical hypothesis based on the presence of vary small particles of matter labeled "Universal Matter". These particles of matter pervade the universe and build the objects that we see and explore. The philosophy has been expanded to include several derivations from its tenets.
 
-DOI: https://doi.org/10.5281/zenodo.18913076 \
-ORCID: https://orcid.org/0009-0005-0351-2778
-
 ## Part One: Main Philosophical Hypothesis
 > The Natural Philosophy of Universal Matter. This part explores invisible matter that forms our visible universe. 
 
